@@ -16,6 +16,12 @@ section{
     margin: auto;
     box-shadow: 5px 5px 14px rgba(0, 0, 0, 0.562)
 }
+select#flista {
+    width: 150px;
+}
+div {
+    line-height: 25pt;
+}
 footer{
     color: green;
     text-align: center;
